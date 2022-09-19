@@ -37,4 +37,5 @@ video{
 .chat form input[type="submit"]:focus{
     width: 25%;
     border-radius: 0;
+    background-color: #a1f513;
 }
